@@ -6,7 +6,8 @@ My name is Tiina, a $\color{green}{\text{forestry engineer}}$ with a curiosity f
 <br>
 <br>
 
-My latest web map -project: https://tiinanuo.github.io/Forest-resource-data/
+**My latest web map -project:** 
+https://tiinanuo.github.io/Forest-resource-data/
 
 **Technologies & Data Sources**
 
