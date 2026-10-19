@@ -9,7 +9,7 @@ My name is Tiina, a $\color{green}{\text{forestry engineer}}$ with a curiosity f
 
 My latest web map -project: https://tiinanuo.github.io/Forest-resource-data/
 
-# Technologies & Data Sources
+* **Technologies & Data Sources**
 
 * **Tools & Frameworks:** QGIS, qgis2web plugin (Leaflet / OpenLayers), HTML / CSS / JavaScript
 * **Data Sources:**
